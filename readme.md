@@ -107,6 +107,8 @@ The the WebGoat.NETCore website will be accessible at the URL specified with the
 5. There is an exeption thrown after checkout if there are two exactly the same product entries in the cart.
 6. Sometimes there is only one featured product diplayed on main page (instead of four).
 
+## Test topic:
+
 ## Changelog:
 
 ### Initial version:
