@@ -26,6 +26,8 @@
     <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="3.0.0" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.0.0" />
     <PackageReference Include="System.Data.SqlClient" Version="4.7.0" />
+    <PackageReference Include="System.Formats.Nrbf" Version="8.0.0" />
+    <PackageReference Include="Csla" Version="7.0.2" />
   </ItemGroup>
 
   <ItemGroup>
